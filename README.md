@@ -5,10 +5,9 @@
 _Creacion de template basico para notificaciones_
 
 
-![Template]()
+![Template Email Newsletter Provek]()
 
 ### Herramientas usadas en el proyecto 🛠️
 
 * [HTML]() Semantico SEO
 * [CSS inline]() 
-* [Font Awesome]()
